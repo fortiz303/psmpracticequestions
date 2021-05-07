@@ -4,3 +4,21 @@ A new Product Owner has joined an existing Scrum Team that has been working toge
 1) You advise the PO to rely on Developers and stakeholders to formulate the PB. By asking questions the PO will be quickly up to speed.
 
 2) You advise the PO to start building good relationships with the stakeholders. The PO is also expected to invite the right stakeholders to the SRev meeting.
+
+What risks does Scrum adress?
+
+1) Stability and complexity in software development
+2) Skills and working relationships of people
+3) Complexity of requirements
+4) Timescale of planned work
+
+Steven is a Scrum Master for three different teams building a single product from the same Product Backlog. Developers from each team have approached Steven complaining that their teams need Nicole, an external specialist, to commit full time for their next Sprint. Which three acceptable solutions would Steven consider? (Choose the best three answers.)
+
+1) Reorder the backlog so that Nicole could serve on a team full time
+2) Investigate whether applying add'l techniques would be appropriate
+3) Developers with an interest in Nicole's domain could volunteer
+
+In what two ways is velocity and technical debt related? (Choose the best two answers.)
+
+1) The developers can artificially increase velocity by allowing debt to occur
+2) The devs will run into tech debt when working on new PBI, velocity decreases
