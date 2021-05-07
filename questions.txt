@@ -1,0 +1,6 @@
+A new Product Owner has joined an existing Scrum Team that has been working together for eight Sprints. The Developers have grown to have a good understanding of the functionality and business for the product they have been building. The Product Owner, being new to the company, is unsure about his responsibilities. As a Scrum Master explain what two acceptable ways of helping the Product Owner would be. (Choose the best two answers.)
+
+
+1) You advise the PO to rely on Developers and stakeholders to formulate the PB. By asking questions the PO will be quickly up to speed.
+
+2) You advise the PO to start building good relationships with the stakeholders. The PO is also expected to invite the right stakeholders to the SRev meeting.
