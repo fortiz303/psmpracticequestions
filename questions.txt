@@ -1,3 +1,5 @@
+REVIEW TEST 3 AND 6 (4 LASTLY)
+
 A new Product Owner has joined an existing Scrum Team that has been working together for eight Sprints. The Developers have grown to have a good understanding of the functionality and business for the product they have been building. The Product Owner, being new to the company, is unsure about his responsibilities. As a Scrum Master explain what two acceptable ways of helping the Product Owner would be. (Choose the best two answers.)
 
 
@@ -22,3 +24,23 @@ In what two ways is velocity and technical debt related? (Choose the best two an
 
 1) The developers can artificially increase velocity by allowing debt to occur
 2) The devs will run into tech debt when working on new PBI, velocity decreases
+
+What benefits does a self managing team have in scrum?
+
+1) Developers resolve conflict
+2) Developers are/become creative
+
+A stakeholder approaches the SM regarding upping their velocity. What does the SM respond with?
+
+1) The SM explains that velocity is used to forecast work for the next sprint not as a perfect productivity predictor.
+
+2) The SM informs the stakeholder that he is aware of the impediments. The SM suggests collaborating to remove those impediments.
+
+Is it a good idea to postpone testing?
+
+1) No because the product increment wont be transparent and commm'tions wont be good enough.
+
+Select two ways in which Scrum uses timeboxing to promote self-management?
+
+1) Time boxing helps everybody concentrate on the same problem at the same time.
+2) Timeboxing encourages those closest to the problem to make decisions.
