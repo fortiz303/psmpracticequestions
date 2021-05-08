@@ -50,3 +50,30 @@ In what two ways is velocity and technical debt related? (Choose the best two an
 
 	1) Time boxing helps everybody concentrate on the same problem at the same time.
 	2) Timeboxing encourages those closest to the problem to make decisions.
+
+(PT 6)
+
+4) The Sprint length should be:
+
+	1) Short enough to keep business risks acceptable to PO
+	2) Not more than one month
+	3) Short enough to sync the development work
+
+7) What is right about the Product Goal?
+
+	1) The PO is also accountable for developing and c'nating the Product Goal
+	2) The SM serves the PO in finding techniques for effective PG definition
+
+16) It's daily scrum not daily standup.
+
+22) When the PO released the increment, it broke the code. What is true?
+
+	1) An increment is a concrete stepping stone towards the Product Goal.
+	2) The devs are not doing enought testing as they should.
+	3) The DoD is not good enough. Review DoD.
+	4. The DoD provides transparency by providing a shared understanding.
+
+24) What is correct about Sprint lengths?
+
+	1) Sprints should be one month or less and it is optimal to have consistent Sprint lengths.
+	2) The Sprint length is NOT dependent on the dev effort forecasted by the dev team. (Why?e)
