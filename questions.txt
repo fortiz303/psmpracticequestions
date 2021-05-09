@@ -51,6 +51,38 @@ In what two ways is velocity and technical debt related? (Choose the best two an
 	1) Time boxing helps everybody concentrate on the same problem at the same time.
 	2) Timeboxing encourages those closest to the problem to make decisions.
 
+(PT 4)
+
+1) If working on multiple teams, does the DoR have to be mutually defined before commencing?
+
+	1) No. The developers can select PBI for the Sprint and refine the PBI when Sprint begins.
+
+3) Explain the Daily Scrum to a skeptic?
+
+	1) The DS is so the developers plan the most important work to reach the SG that day.
+	2) The DS is so the developers imform the SM and he/she can remove impediments.
+
+4) Does the Spint Goal change?
+	
+	1) No
+
+16) What is the PO main concern?
+
+	1) The PO's main concern is maximizing the flow of value by ordering the PB.
+
+22) The team was not able to come up with a SB, what does the SM do?
+
+	1) He takes his best guess of what can meet the SG and discuss in SRt why team struggled.
+
+29) The PO can delegate what resposibility?
+	
+	1) Ordering the PB
+
+30) Where do you add NFR's?
+
+	1) The DoD and PB
+
+
 (PT 6)
 
 4) The Sprint length should be:
@@ -66,6 +98,7 @@ In what two ways is velocity and technical debt related? (Choose the best two an
 
 16) It's daily scrum not daily standup.
 
+
 22) When the PO released the increment, it broke the code. What is true?
 
 	1) An increment is a concrete stepping stone towards the Product Goal.
@@ -76,4 +109,8 @@ In what two ways is velocity and technical debt related? (Choose the best two an
 24) What is correct about Sprint lengths?
 
 	1) Sprints should be one month or less and it is optimal to have consistent Sprint lengths.
-	2) The Sprint length is NOT dependent on the dev effort forecasted by the dev team. (Why?e)
+	2) The Sprint length is NOT dependent on the dev effort forecasted by the dev team. (Why?)
+
+
+REVIEW QUESTION 8 from pt 6
+REVIEW QUESTION 12
