@@ -111,6 +111,8 @@ In what two ways is velocity and technical debt related? (Choose the best two an
 	1) Sprints should be one month or less and it is optimal to have consistent Sprint lengths.
 	2) The Sprint length is NOT dependent on the dev effort forecasted by the dev team. (Why?)
 
+REVIEW 18
+
 
 REVIEW QUESTION 8 from pt 6
 REVIEW QUESTION 12
